@@ -1,0 +1,5 @@
+5 5
+sample 0 0 r CW
+Puzzle 0 1 d CW
+Puzzle 1 1 l CW
+
